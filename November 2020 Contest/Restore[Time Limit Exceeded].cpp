@@ -1,5 +1,5 @@
 
-// This code is giving right answers but the time complexity is very high
+// This code produces right answers but the time complexity is very high
 // cant give answers for large input in time
 
 
